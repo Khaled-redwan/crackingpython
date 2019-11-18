@@ -1,0 +1,5 @@
+*) given two integers, return True if the sum of the integers is 20 or if one of the integers is 20.
+if not , return False.
+**) maskes_twenty (20,10)-->True
+**)makes_twnety (12,8)-->True
+**)makes_twnety (2,3)-->False
