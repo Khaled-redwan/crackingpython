@@ -1,0 +1,4 @@
+*) if word starts with a vowel , ass 'ay' to end
+**)if word does not strat with a vowel, put first letter at the end , then add 'ay'
+***) word-->ordway
+***)apple-->appleay
