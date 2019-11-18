@@ -1,0 +1,4 @@
+*) given an integer n, return True if n is within 10 of either 100 or 200
+**) almost(90)--> True
+**)almost(104)-->True
+**)almost(154)-->False
