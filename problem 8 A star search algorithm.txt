@@ -1,0 +1,5 @@
+#it is best known form of best known form of best first search it avoids expanding paths that are already expensive , but expands most promising paths first 
+# rules f(n)= g(n)+h(n)
+#g(n)= the cost to reach the node
+#h(n)= heuristic value
+#f(n)= estimated total path to reach goal 
